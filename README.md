@@ -62,11 +62,11 @@
       <div class="grid md:grid-cols-2 gap-6">
         <div class="p-6 bg-gray-100 rounded shadow">
           <p>"Teknisi datang tepat waktu dan AC saya dingin kembali!"</p>
-          <span class="block mt-2 font-semibold">– Budi, Jakarta</span>
+          <span class="block mt-2 font-semibold">– Budi, Cimahi</span>
         </div>
         <div class="p-6 bg-gray-100 rounded shadow">
           <p>"Layanan cepat dan harga terjangkau. Sangat puas!"</p>
-          <span class="block mt-2 font-semibold">– Sari, Tangerang</span>
+          <span class="block mt-2 font-semibold">– Sari, Bandung</span>
         </div>
       </div>
     </div>
@@ -76,8 +76,8 @@
   <section id="kontak" class="py-16 bg-blue-600 text-white">
     <div class="container mx-auto text-center">
       <h3 class="text-3xl font-bold mb-6">Hubungi Kami Sekarang</h3>
-      <p class="mb-4">WA / Telepon: <a href="tel:081234567890" class="underline">0812-3456-7890</a></p>
-      <p>Email: <a href="mailto:serviceac@example.com" class="underline">serviceac@example.com</a></p>
+      <p class="mb-4">WA / Telepon: <a href="tel:085222241144" class="underline">0812-3456-7890</a></p>
+      <p>Alamat: <a href="mailto:Rajawali-Bandung" class="underline">Rajawali_Bandung</a></p>
     </div>
   </section>
 
