@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Service AC Profesional</title>
+  <title>Rajawali AC</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
     tailwind.config = {
@@ -77,7 +77,7 @@
     <div class="container mx-auto text-center">
       <h3 class="text-3xl font-bold mb-6">Hubungi Kami Sekarang</h3>
       <p class="mb-4">WA / Telepon: <a href="tel:085222241144" class="underline">0812-3456-7890</a></p>
-      <p>Alamat: <a href="mailto:Rajawali-Bandung" class="underline">Rajawali_Bandung</a></p>
+      <p>Alamat: <a ="Rajawali-Bandung" >Rajawali-Bandung
     </div>
   </section>
 
@@ -90,7 +90,7 @@
 
   <!-- Footer -->
   <footer class="bg-gray-800 text-white text-center p-4">
-    © 2025 Service cAC Profesional. All rights reserved.
+    © 2025 Service AC Profesional. All rights reserved.
   </footer>
 
 </body>
